@@ -1,7 +1,3 @@
-# dsnd-i2ds
-
-#TODO
-
 ### Table of Contents
 1. [Installation](#installation)
 2. [Project Motivation](#project-motivation)
@@ -11,7 +7,7 @@
 
 
 ## Installation <a name="installation"></a>
-There are no additional libraries outside of the standard Anaconda distribution required to run the associated code. However, it should be noted the inconsistencies are found with the Jupyter Notebook workspace provided by Udacity, especially when exploring the optimal model. The discrepancy will be noted in the Notebook and all official results will be derived from the standard Python/Anaconda environment (via .py).
+There are no additional libraries outside of the standard Anaconda distribution required to run the associated code.
 
 ## Project Motivation <a name="project-motivation"></a>
 Every year there seem to be dozens of social media or general blog posts about the "Top 10 Languages to Learn in 20XX". Having been working with the StackOverflow 2017 Survey data for a little while now, I thought it might interesting to see how those developers felt about their languages - "what get's used?", "what is gaining traction or losing its lead?", "do people actually like working with the tools that are most prevalent?". The survey has been tracking current technologies respondents were using (language, O/S, web framework, supporting technologies, etc.). Knowing this, the following questions came to mind:
@@ -21,6 +17,8 @@ Every year there seem to be dozens of social media or general blog posts about t
 2. *How do the languages a developer wants to utilize impact a developer's job satisfaction?* There is something to be said about how well you like your job when you are paid well for it, but what about based on what your tool bag looks like? If you get to play with your toys rather than what you're told to deal with, does that actually matter?
 
 3. *How do developers evaluate their own competency given their years of experience and gender?* It's often said that men and women have widely different opinions of their own abilities and that younger men, specifically, tend towards over-confidence or at least, state higher levels of expertise than women would at the same age.
+
+Project discussion can be found on [Medium](https://michael-partel.medium.com/whats-developer-satisfaction-anyway-aab8ea98d646)
 
 ## File Descriptions <a name="file-descriptions"></a>
 Guide others through the files in your repository. You may not talk about every file here, but you should let them know where they can find the work they might find most interesting.
