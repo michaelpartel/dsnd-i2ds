@@ -25,10 +25,10 @@ Every year there seem to be dozens of social media or general blog posts about t
 ## File Descriptions <a name="file-descriptions"></a>
 Guide others through the files in your repository. You may not talk about every file here, but you should let them know where they can find the work they might find most interesting.
 
-The jupyter notebook can be found [here](LINK). Within it, each question has it's own separate notebook file. Code and results:
-  * question 1 can be found in *Language Popularity Over Time According to StackOverflow.ipynb*
-  * question 2 can be found in *LanguageDesireAndJobSatisfaction.ipynb*
-  * question 3 can be found in *ConfidenceByGenderYears.ipynb*
+The jupyter notebook can be found [here](https://github.com/michaelpartel/dsnd-i2ds/tree/main/ipynb). Within it, each question has it's own separate notebook file. Code and results:
+  * question 1 can be found in *[Language Popularity Over Time According to StackOverflow.ipynb](https://github.com/michaelpartel/dsnd-i2ds/blob/main/ipynb/Language%20Popularity%20Over%20Time%20According%20to%20StackOverflow.ipynb)*
+  * question 2 can be found in *[LanguageDesireAndJobSatisfaction.ipynb](https://github.com/michaelpartel/dsnd-i2ds/blob/main/ipynb/LanguageDesireAndJobSatisfaction.ipynb)*
+  * question 3 can be found in *[ConfidenceByGenderYears.ipynb](https://github.com/michaelpartel/dsnd-i2ds/blob/main/ipynb/ConfidenceByGenderYears.ipynb)*
 
 ##  Results <a name="results"></a>
 When your project isn't meant to be interactive or used for other projects, you should instead talk about the technical details of your project. What were your results? What did you do to improve them? What methods did you try? What worked? What didn't work?
