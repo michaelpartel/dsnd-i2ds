@@ -7,7 +7,7 @@
 
 
 ## Installation <a name="installation"></a>
-There are no additional libraries outside of the standard Anaconda distribution required to run the associated code.
+There are no additional libraries outside of the standard Anaconda distribution required to run the associated code. The Zip files for the various survey years must be unzipped into their own folders (i.e., developer_survey_2019.zip into developer_survey_2019/). The code directly references these using a "../developer_survey_20xx/<>" format.
 
 ## Project Motivation <a name="project-motivation"></a>
 Every year there seem to be dozens of social media or general blog posts about the "Top 10 Languages to Learn in 20XX". Having been working with the StackOverflow 2017 Survey data for a little while now, I thought it might interesting to see how those developers felt about their languages - "what get's used?", "what is gaining traction or losing its lead?", "do people actually like working with the tools that are most prevalent?". The survey has been tracking current technologies respondents were using (language, O/S, web framework, supporting technologies, etc.). Knowing this, the following questions came to mind:
